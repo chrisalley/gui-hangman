@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="difficulty level">
+		<param name="Name" value="GUI Hangman - Choosing a Difficulty Level">
+		<param name="Local" value="ChoosingADifficultyLevel.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="logout">
+		<param name="Name" value="GUI Hangman - Logging Out">
+		<param name="Local" value="LoggingOut.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="file menu">
+		<param name="Name" value="GUI Hangman - Logging On">
+		<param name="Local" value="LoggingOn.html">
+		<param name="URL" value="ExitingTheGame.html">
+		<param name="Name" value="GUI Hangman - Logging Out">
+		<param name="Local" value="LoggingOut.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="login">
+		<param name="Name" value="GUI Hangman - Logging On">
+		<param name="Local" value="LoggingOn.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="new game">
+		<param name="Name" value="GUI Hangman - Starting A New Game">
+		<param name="Local" value="StartingANewGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="end game">
+		<param name="Name" value="GUI Hangman - Ending a Game">
+		<param name="Local" value="EndingAGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="reports">
+		<param name="Name" value="GUI Hangman - Viewing Reports">
+		<param name="Local" value="ViewingReports.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="player report">
+		<param name="Name" value="GUI Hangman - Player Report">
+		<param name="Local" value="PlayerReport.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="game report">
+		<param name="Name" value="GUI Hangman - Game Report">
+		<param name="Local" value="GameReport.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="all games report">
+		<param name="Name" value="GUI Hangman - All Games Report">
+		<param name="Local" value="AllGamesReport.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="exit">
+		<param name="Name" value="GUI Hangman - Exiting the Game">
+		<param name="Local" value="ExitingTheGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="game menu">
+		<param name="Name" value="GUI Hangman - Viewing Reports">
+		<param name="Local" value="ViewingReports.html">
+		<param name="Name" value="GUI Hangman - Ending a Game">
+		<param name="Local" value="EndingAGame.html">
+		<param name="Name" value="GUI Hangman - Starting A New Game">
+		<param name="Local" value="StartingANewGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="help menu">
+		<param name="Name" value="GUI Hangman - About The Game">
+		<param name="Local" value="AboutTheGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="about">
+		<param name="Name" value="GUI Hangman - About The Game">
+		<param name="Local" value="AboutTheGame.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="new player">
+		<param name="Name" value="GUI Hangman - Creating a New Player">
+		<param name="Local" value="CreatingANewPlayer.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

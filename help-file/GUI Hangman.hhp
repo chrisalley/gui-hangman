@@ -1,0 +1,38 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=GUI Hangman.chm
+Contents file=Table of Contents.hhc
+Default Window=GUI Hangman
+Default topic=Introduction.html
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x1409 English (New Zealand)
+Title=GUI Hangman
+
+[WINDOWS]
+GUI Hangman="GUI Hangman","Table of Contents.hhc","Index.hhk","Introduction.html","Introduction.html",,,,,0x22520,,0x3006,[0,0,800,600],,,,,,,0
+
+
+[FILES]
+AboutTheGame.html
+AllGamesReport.html
+ChoosingADifficultyLevel.html
+CreatingANewPlayer.html
+EndingAGame.html
+ExitingTheGame.html
+GameReport.html
+GettingStarted.html
+HowToPlay.html
+Introduction.html
+LoggingOn.html
+LoggingOut.html
+PlayerReport.html
+PlayingTheGame.html
+SigningOff.html
+StartingANewGame.html
+ViewingReports.html
+Styles.css
+
+[INFOTYPES]
+

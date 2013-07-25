@@ -1,0 +1,22 @@
+Introduction
+
+Getting Started
+- Creating a New Player
+- Logging On
+
+Playing the Game
+- Choosing a Difficulty Level
+- Starting a New Game
+- How to Play
+- Ending the Game
+
+Viewing Reports
+- Player Report
+- Game Report
+- All Games Report
+
+Signing Off
+- Logging Out
+- Exiting the Game
+
+About the Game
